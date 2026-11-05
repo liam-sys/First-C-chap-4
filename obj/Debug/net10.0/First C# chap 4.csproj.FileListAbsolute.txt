@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\obj\Debug\net10.0\First C# chap 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\obj\Debug\net10.0\First C# chap 4.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\obj\Debug\net10.0\First C# chap 4.AssemblyInfo.cs
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\obj\Debug\net10.0\First C# chap 4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\bin\Debug\net10.0\First C# chap 4.exe
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\bin\Debug\net10.0\First C# chap 4.deps.json
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\bin\Debug\net10.0\First C# chap 4.runtimeconfig.json
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\bin\Debug\net10.0\First C# chap 4.dll
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\bin\Debug\net10.0\First C# chap 4.pdb
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\obj\Debug\net10.0\First C# chap 4.dll
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\obj\Debug\net10.0\refint\First C# chap 4.dll
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\obj\Debug\net10.0\First C# chap 4.pdb
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\obj\Debug\net10.0\First C# chap 4.genruntimeconfig.cache
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\obj\Debug\net10.0\ref\First C# chap 4.dll
+C:\Users\USER\source\repos\First C sharp\First C# chap 4\obj\Debug\net10.0\First C#.937EF4B0.Up2Date
